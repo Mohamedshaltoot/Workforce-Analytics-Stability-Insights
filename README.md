@@ -21,10 +21,12 @@ This project analyzes HR data to uncover insights about:
 https://github.com/Mohamedshaltoot/Workforce-Analytics-Stability-Insights/blob/main/Project%20video
 # 📷 Dashboard Screenshots
 
-## 1️⃣ Human Capital Sustainability Dashboard
+## 1️. Human Capital Sustainability Dashboard
 https://github.com/Mohamedshaltoot/Workforce-Analytics-Stability-Insights/blob/main/Overview.png
 ```
-## 2️⃣ Workforce Insights Analytics Dashboard
+
+
+## 2️.Workforce Insights Analytics Dashboard
 https://github.com/Mohamedshaltoot/Workforce-Analytics-Stability-Insights/blob/main/Workforce.png
 ```
 # 📊 Key Metrics
@@ -128,7 +130,7 @@ This dashboard helps organizations:
 - Monitor **workforce satisfaction**
 - Optimize **salary and promotion strategies**
 - Support **data-driven HR decisions**
-
+	
 ---
 ##Author
 *Eng. Mohamed Edris
