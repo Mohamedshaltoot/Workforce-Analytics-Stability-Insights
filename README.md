@@ -15,10 +15,7 @@ This project analyzes HR data to uncover insights about:
 
 # 🎥 Dashboard Demo
 
-
-[![Dashboard Demo Video](https://github.com/Mohamedshaltoot/Workforce-Analytics-Stability-Insights/raw/main/Project_video.mp4)
-
-
+https://github.com/user-attachments/assets/095dca59-2ec2-46e1-ae38-f8e5496d0bb3
 
 ---
 
