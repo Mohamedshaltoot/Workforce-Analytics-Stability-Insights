@@ -18,14 +18,14 @@ This project analyzes HR data to uncover insights about:
 - Distance from Workplace
 ---
 # 🎥 Dashboard Demo (Video)
-Workforce-Analytics-Stability-Insights/Project video at main · Mohamedshaltoot/Workforce-Analytics-Stability-Insights
+https://github.com/Mohamedshaltoot/Workforce-Analytics-Stability-Insights/blob/main/Project%20video
 # 📷 Dashboard Screenshots
 
 ## 1️⃣ Human Capital Sustainability Dashboard
-Workforce-Analytics-Stability-Insights/Overview.png at main · Mohamedshaltoot/Workforce-Analytics-Stability-Insights
+https://github.com/Mohamedshaltoot/Workforce-Analytics-Stability-Insights/blob/main/Overview.png
 ```
 ## 2️⃣ Workforce Insights Analytics Dashboard
-Workforce-Analytics-Stability-Insights/Workforce.png at main · Mohamedshaltoot/Workforce-Analytics-Stability-Insights
+https://github.com/Mohamedshaltoot/Workforce-Analytics-Stability-Insights/blob/main/Workforce.png
 ```
 # 📊 Key Metrics
 
