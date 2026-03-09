@@ -16,18 +16,19 @@ This project analyzes HR data to uncover insights about:
 - Department Performance
 - Business Travel Impact
 - Distance from Workplace
-__
+---
 # 🎥 Dashboard Demo (Video)
 https://github.com/Mohamedshaltoot/Workforce-Analytics-Stability-Insights/blob/main/Project%20video
 # 📷 Dashboard Screenshots
-__
+
 ## 1️. Human Capital Sustainability Dashboard
-https://github.com/Mohamedshaltoot/Workforce-Analytics-Stability-Insights/blob/main/Overview.png
-__
+<img width="1443" height="808" alt="Image"src="https://github.com/Mohamedshaltoot/Workforce-Analytics-Stability-Insights/blob/main/Overview.png" />
+```
+
+
 ## 2️.Workforce Insights Analytics Dashboard
 https://github.com/Mohamedshaltoot/Workforce-Analytics-Stability-Insights/blob/main/Workforce.png
 ```
-
 # 📊 Key Metrics
 
 | Metric | Value |
