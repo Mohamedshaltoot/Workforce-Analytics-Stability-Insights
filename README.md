@@ -27,8 +27,13 @@ https://github.com/Mohamedshaltoot/Workforce-Analytics-Stability-Insights/blob/m
 
 
 ## 2️.Workforce Insights Analytics Dashboard
-<img width="1443" height="808" alt="Image"src="https://github.com/Mohamedshaltoot/Workforce-Analytics-Stability-Insights/blob/main/Workforce.png" />
-```
+## 📸 Dashboard Screenshots
+
+### 1. Human Capital Sustainability Dashboard
+![Human Capital Sustainability Dashboard](Overview.png)
+
+### 2. Workforce Insights Analytics Dashboard
+![Workforce Insights Analytics Dashboard](Workforce.png)```
 # 📊 Key Metrics
 
 | Metric | Value |
