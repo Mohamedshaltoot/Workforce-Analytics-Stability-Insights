@@ -133,3 +133,6 @@ https://github.com/user-attachments/assets/095dca59-2ec2-46e1-ae38-f8e5496d0bb3
 
 ## ⭐ Author
 En:Mohamed Edris
+[LinkedIn Profile](https://www.linkedin.com/in/mohamed-edris-mohamed-ali-ba261b212)
+
+
