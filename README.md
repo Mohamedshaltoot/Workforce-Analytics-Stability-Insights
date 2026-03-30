@@ -1,84 +1,117 @@
-# 📊 HR Analytics Dashboard – Workforce Insights
+# 📊 Workforce Analytics & Attrition Report
 
-An interactive **HR Analytics Dashboard** built to analyze employee attrition, workforce trends, job satisfaction, and salary insights. 
-This project helps organizations understand **employee behavior and retention patterns** using data visualization.
+## Executive Summary
+This report analyzes workforce attrition, employee satisfaction, and organizational trends using HR analytics dashboards. The overall attrition rate stands at **16.12%**, with **237 employees leaving out of 1,470 total employees**.
 
----
+Key drivers of attrition include:
+- Job satisfaction
+- Distance from workplace
+- Stock options
+- Age group
+- Education level
+- Business travel frequency
 
-# 🚀 Project Overview
-
-This project analyzes HR data to uncover insights about:
-- Employee Attrition | Workforce Satisfaction | Salary Distribution
-- Work-Life Balance | Department Performance | Business Travel Impact | Distance from Workplace
-
----
-
-# 🎥 Dashboard Demo
-
-https://github.com/user-attachments/assets/095dca59-2ec2-46e1-ae38-f8e5496d0bb3
+Employees who travel frequently or live far from the workplace show significantly higher attrition rates.
 
 ---
 
-# 📷 Dashboard Screenshots
+## Introduction
+Human capital sustainability is critical for organizational success. This report uses workforce analytics to uncover patterns in employee attrition and provide actionable insights.
 
-## 1️. Human Capital Sustainability Dashboard
-![Human Capital Sustainability](https://github.com/user-attachments/assets/73bc5c27-8cc5-4389-bce4-f485af10a4da)
-
-## 2️. Workforce Insights Analytics Dashboard
-![Workforce Insights Analytics](https://github.com/user-attachments/assets/50151b34-1115-4702-8056-a525201e83bd)
-
----
-
-# 📊 Key Metrics
-
-| Metric | Value |
-|------|------|
-| Total Employees | 1.47k |
-| Total Attrition | 237 |
-| Attrition Rate | 16.12% |
-| Total Monthly Salary | $9.56M |
-| Avg Job Satisfaction | 2.73 |
-| Avg Salary Hike | 2.76 |
-| Avg Environment Rating | 2.72 |
-| Avg Work-Life Balance | 2.76 |
+### Scope of Analysis:
+- Employee demographics (age, education)
+- Job satisfaction levels
+- Compensation and stock options
+- Work environment and travel requirements
 
 ---
 
-# 📈 Dashboard Insights
+## Key Findings
 
-### Employee Attrition Analysis
-* Attrition by **Age Group** (26–35 are highest)
-* Attrition by **Education Level** (Bachelor's degree turnover is highest)
-* Attrition by **Distance from Workplace** (Very far = higher risk)
-* Attrition by **Business Travel** (Frequent travel = higher risk)
+### 🔹 Attrition Overview
+- Total Employees: **1,470**
+- Total Attrition: **237**
+- Attrition Rate: **16.12%**
+
+### 🔹 Job Satisfaction
+- Lower satisfaction = higher attrition
+- Dissatisfied employees show the highest turnover
+
+### 🔹 Distance from Workplace
+- Very Far: ~42% attrition
+- Far: ~38%
+- Near: ~25%
+
+### 🔹 Stock Options
+- Employees with **no stock options** have the highest attrition
+- Higher stock options improve retention
+
+### 🔹 Age Group
+- Highest attrition: **26–35**
+- Lowest attrition: **56+**
+
+### 🔹 Education
+- Highest attrition: **Bachelor’s degree holders**
+- Lowest attrition: **Doctorate holders**
+
+### 🔹 Business Travel
+- Travel Frequently: **41.86%**
+- Travel Rarely: **28.47%**
+- Non-Travel: **20%**
+
+### 🔹 Job Roles
+- High attrition: Sales Executive, Lab Technician
+- Low attrition: Manager, Research Director
 
 ---
 
-# 🧰 Tools & Technologies
-* **Power BI:** Data Visualization
-* **Excel/CSV:** Data Source
-* **DAX:** Data Analysis
+## Recommendations
+
+### ✅ Improve Job Satisfaction
+- Conduct engagement surveys
+- Implement recognition programs
+
+### ✅ Flexible Work Options
+- Offer remote/hybrid work for distant employees
+
+### ✅ Compensation & Benefits
+- Introduce stock options
+- Ensure competitive salaries
+
+### ✅ Reduce Travel Burden
+- Limit frequent travel
+- Provide incentives for travel-heavy roles
+
+### ✅ Focus on High-Risk Groups
+- Target employees aged **26–35**
+- Support mid-career growth
+
+### ✅ Career Development
+- Provide training & upskilling
+- Define clear promotion paths
 
 ---
 
-# 📊 Key Takeaways
-✔ Employees aged **26–35** show the highest attrition.
-✔ Employees with **Bachelor's degrees** have the highest turnover.
-✔ Employees living **very far** from the office are more likely to leave.
-✔ **Frequent business travel** significantly increases attrition.
-✔ **Sales roles** show higher employee turnover.
+## Conclusion
+Employee attrition is driven by multiple factors such as satisfaction, commute distance, compensation, and work conditions. 
+
+By leveraging data-driven HR strategies, organizations can:
+- Reduce attrition
+- Improve employee satisfaction
+- Enhance productivity
 
 ---
 
-# 💡 Business Value
-This dashboard helps organizations:
-- Identify **employee attrition drivers**.
-- Improve **employee retention**.
-- Monitor **workforce satisfaction**.
-- Support **data-driven HR decisions**.
+## 📌 Tools Used
+- Power BI 
+- Excel  (Data Processing)
 
 ---
 
-## Author
-**Eng. Mohamed Edris**
-[LinkedIn Profile](https://www.linkedin.com/in/mohamed-edris-mohamed-ali-ba261b212)
+## 📷 Dashboard Preview
+*(Add your dashboard screenshots here)*
+
+---
+
+## ⭐ Author
+Your Name  
