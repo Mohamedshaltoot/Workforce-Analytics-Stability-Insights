@@ -131,10 +131,9 @@ https://github.com/user-attachments/assets/095dca59-2ec2-46e1-ae38-f8e5496d0bb3
 
 ---
 
-## ⭐ Author
 <div align="center">
 
-**Developed by:** **Eng. Mohamed Edris** *Data Analytics *
+**⭐ Author:** **Eng. Mohamed Edris** *Data Analytics *
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
 
