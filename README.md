@@ -93,7 +93,7 @@ Human capital sustainability is critical for organizational success. This report
 ---
 
 ## Conclusion
-Employee attrition is driven by multiple factors such as satisfaction, commute distance, compensation, and work conditions. 
+Employee attrition is driven by multiple factors such as satisfaction, commute distance, compensation, and work conditions. 
 
 By leveraging data-driven HR strategies, organizations can:
 - Reduce attrition
@@ -103,40 +103,32 @@ By leveraging data-driven HR strategies, organizations can:
 ---
 
 ## 📌 Tools Used
-- Power BI 
-- Excel  (Data Processing)
+- Power BI 
+- Excel  (Data Processing)
 
----
 ---
 
 # 🎥 Dashboard Demo
 
-<video width="100%" controls>
-  <source src="demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/095dca59-2ec2-46e1-ae38-f8e5496d0bb3
+
 
 ---
+
+
 
 # 📷 Dashboard Screenshots
 
-## 1️⃣ Human Capital Sustainability Dashboard
+## 1️. Human Capital Sustainability Dashboard
 
-![Human Capital Sustainability](dashboard1.png)
+![Human Capital Sustainability](https://github.com/user-attachments/assets/73bc5c27-8cc5-4389-bce4-f485af10a4da)
 
-## 2️⃣ Workforce Insights Analytics Dashboard
+## 2️. Workforce Insights Analytics Dashboard
 
-![Workforce Insights Analytics](dashboard2.png)
+![Workforce Insights Analytics](https://github.com/user-attachments/assets/50151b34-1115-4702-8056-a525201e83bd)
 
----
 
-<div align="center">
 
-**⭐ Author:** **Eng. Mohamed Edris** | *Data Analytics & BI Specialist*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamed-edris-ba261b212)
-
-</div>
 ---
 
 <div align="center">
@@ -147,4 +139,4 @@ By leveraging data-driven HR strategies, organizations can:
 
 </div
 
-
+الصور والفيديو لم تظهر
