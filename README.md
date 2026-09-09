@@ -64,7 +64,17 @@ Human capital sustainability is critical for organizational success. This report
 - Low attrition: Manager, Research Director
 
 ---
+ 📷 Dashboard Screenshots
 
+## 1️. Human Capital Sustainability Dashboard
+
+![Human Capital Sustainability](https://github.com/user-attachments/assets/73bc5c27-8cc5-4389-bce4-f485af10a4da)
+
+## 2️. Workforce Insights Analytics Dashboard
+
+![Workforce Insights Analytics](https://github.com/user-attachments/assets/50151b34-1115-4702-8056-a525201e83bd)
+
+---
 ## Recommendations
 
 ### ✅ Improve Job Satisfaction
@@ -114,19 +124,6 @@ https://github.com/user-attachments/assets/095dca59-2ec2-46e1-ae38-f8e5496d0bb3
 
 
 ---
-
-
-
-# 📷 Dashboard Screenshots
-
-## 1️. Human Capital Sustainability Dashboard
-
-![Human Capital Sustainability](https://github.com/user-attachments/assets/73bc5c27-8cc5-4389-bce4-f485af10a4da)
-
-## 2️. Workforce Insights Analytics Dashboard
-
-![Workforce Insights Analytics](https://github.com/user-attachments/assets/50151b34-1115-4702-8056-a525201e83bd)
-
 
 
 ---
